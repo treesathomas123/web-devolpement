@@ -1,0 +1,21 @@
+.home{
+    background-image: url("https://wallpaperaccess.com/full/1772051.jpg");
+    height: 730px;
+}
+
+.home_txt{
+    font-size: 50px;
+    text-align: center;
+    text-size-adjust: 20px;
+    padding-top: 310px;
+    padding-left: 90px;
+    color:white;
+}
+.about_txt{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font font-size: 25px;
+    padding-center:310px;
+    color:black;
+}
+
